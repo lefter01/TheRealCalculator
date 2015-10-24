@@ -32,7 +32,7 @@ public class MainFrame extends JFrame {
 	String operation;
 
 	/**
-	 * Launch the application.
+	 * Launch the application baby.
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
